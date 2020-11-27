@@ -1,0 +1,160 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 20 Nov 2020 12:57:40 at https://bocagesaintlouis.fr/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" https://bocagesaintlouis.fr/ -O1 "C:\Users\greg\Documents\bocage" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:58:10	Error: 	"Method Not Allowed" (405) at link https://bocagesaintlouis.fr/xmlrpc.php (from https://bocagesaintlouis.fr/)
+12:58:29	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/%22tel:+33241513355/ (from https://bocagesaintlouis.fr/)
+12:58:29	Warning: 	Link https://bocagesaintlouis.fr/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+12:59:49	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/uploads/2015/06/tarifs_sejour_essai_2015_sem2.pdf (from https://bocagesaintlouis.fr/)
+12:59:52	Warning: 	File not parsed, looks like binary: https://bocagesaintlouis.fr/wp-content/themes/consultant/fonts/DroidSans-webfont.ttf
+12:59:52	Warning: 	File not parsed, looks like binary: https://bocagesaintlouis.fr/wp-content/themes/consultant/fonts/DroidSans-Bold-webfont.ttf
+12:59:52	Warning: 	File not parsed, looks like binary: https://bocagesaintlouis.fr/wp-content/themes/consultant/fonts/acaslonpro-regular-webfont.ttf
+12:59:52	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/themes/consultant/images/morelink-span-hover.gif (from https://bocagesaintlouis.fr/wp-content/themes/consultant/style.css?ver=5.5.1)
+12:59:52	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/themes/consultant/images/bg-button-hover.gif (from https://bocagesaintlouis.fr/wp-content/themes/consultant/style.css?ver=5.5.1)
+12:59:52	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/themes/consultant/images/light_rounded/sprite.png (from https://bocagesaintlouis.fr/wp-content/themes/consultant/prettyPhoto.css?ver=5.5.1)
+12:59:52	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/themes/consultant/images/light_rounded/btnNext.png (from https://bocagesaintlouis.fr/wp-content/themes/consultant/prettyPhoto.css?ver=5.5.1)
+12:59:52	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/themes/consultant/images/light_rounded/btnPrevious.png (from https://bocagesaintlouis.fr/wp-content/themes/consultant/prettyPhoto.css?ver=5.5.1)
+12:59:52	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/themes/consultant/images/light_rounded/loader.gif (from https://bocagesaintlouis.fr/wp-content/themes/consultant/prettyPhoto.css?ver=5.5.1)
+12:59:52	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/themes/consultant/images/dark_rounded/sprite.png (from https://bocagesaintlouis.fr/wp-content/themes/consultant/prettyPhoto.css?ver=5.5.1)
+12:59:52	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/themes/consultant/images/dark_rounded/contentPattern.png (from https://bocagesaintlouis.fr/wp-content/themes/consultant/prettyPhoto.css?ver=5.5.1)
+12:59:52	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/themes/consultant/images/dark_rounded/btnNext.png (from https://bocagesaintlouis.fr/wp-content/themes/consultant/prettyPhoto.css?ver=5.5.1)
+12:59:52	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/themes/consultant/images/dark_rounded/btnPrevious.png (from https://bocagesaintlouis.fr/wp-content/themes/consultant/prettyPhoto.css?ver=5.5.1)
+12:59:52	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/themes/consultant/images/dark_rounded/loader.gif (from https://bocagesaintlouis.fr/wp-content/themes/consultant/prettyPhoto.css?ver=5.5.1)
+12:59:52	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/themes/consultant/images/dark_square/contentPattern.png (from https://bocagesaintlouis.fr/wp-content/themes/consultant/prettyPhoto.css?ver=5.5.1)
+12:59:52	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/themes/consultant/images/dark_square/sprite.png (from https://bocagesaintlouis.fr/wp-content/themes/consultant/prettyPhoto.css?ver=5.5.1)
+12:59:52	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/themes/consultant/images/dark_square/btnNext.png (from https://bocagesaintlouis.fr/wp-content/themes/consultant/prettyPhoto.css?ver=5.5.1)
+12:59:52	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/themes/consultant/images/dark_square/btnPrevious.png (from https://bocagesaintlouis.fr/wp-content/themes/consultant/prettyPhoto.css?ver=5.5.1)
+12:59:53	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/themes/consultant/images/light_square/sprite.png (from https://bocagesaintlouis.fr/wp-content/themes/consultant/prettyPhoto.css?ver=5.5.1)
+12:59:53	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/themes/consultant/images/light_square/btnNext.png (from https://bocagesaintlouis.fr/wp-content/themes/consultant/prettyPhoto.css?ver=5.5.1)
+12:59:53	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/themes/consultant/images/light_square/btnPrevious.png (from https://bocagesaintlouis.fr/wp-content/themes/consultant/prettyPhoto.css?ver=5.5.1)
+12:59:53	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=45
+12:59:53	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=45 to https://bocagesaintlouis.fr/la-residence/
+12:59:53	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=318
+12:59:53	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=318 to https://bocagesaintlouis.fr/plans-des-appartements/
+12:59:53	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=42
+12:59:53	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=42 to https://bocagesaintlouis.fr/les-prestations/
+12:59:53	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1148
+12:59:53	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1148 to https://bocagesaintlouis.fr/les-tarifs/
+12:59:53	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=350
+12:59:53	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=350 to https://bocagesaintlouis.fr/lesannonces/
+12:59:53	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=48
+12:59:53	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=48 to https://bocagesaintlouis.fr/saumur-perle-de-lanjou/
+12:59:53	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1192
+12:59:53	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1192 to https://bocagesaintlouis.fr/les-nouvelles/
+12:59:55	Warning: 	Retry after error 500 (Internal Server Error) at link https://bocagesaintlouis.fr/category/bocage/ (from https://bocagesaintlouis.fr/les-nouvelles/)
+13:00:09	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=28
+13:00:09	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=28 to https://bocagesaintlouis.fr/a-propos/
+13:00:09	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1625
+13:00:09	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1625 to https://bocagesaintlouis.fr/voeux-du-president-2020/
+13:00:11	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1611
+13:00:11	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1611 to https://bocagesaintlouis.fr/animation-karaoke-23-janvier-2020/
+13:00:12	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1571
+13:00:12	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1571 to https://bocagesaintlouis.fr/repas-ete-25-06-2019/
+13:00:14	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1568
+13:00:14	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1568 to https://bocagesaintlouis.fr/repas-erquy-19-02-2019/
+13:00:14	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1566
+13:00:14	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1566 to https://bocagesaintlouis.fr/repas-costa-brava-25-10-2018/
+13:00:14	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1564
+13:00:14	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1564 to https://bocagesaintlouis.fr/menu-barbecue-13-09-2019/
+13:00:14	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1556
+13:00:14	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1556 to https://bocagesaintlouis.fr/repas-vendanges-19-09-2019/
+13:00:14	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1538
+13:00:14	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1538 to https://bocagesaintlouis.fr/repas-portes-ouvertes-2019/
+13:00:14	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1508
+13:00:14	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1508 to https://bocagesaintlouis.fr/repas-costa-brava/
+13:00:14	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1505
+13:00:14	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1505 to https://bocagesaintlouis.fr/dejeuner-auvergnat/
+13:00:34	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1501
+13:00:34	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1501 to https://bocagesaintlouis.fr/dejeuner-russe-19-10-2017/
+13:00:35	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1496
+13:00:35	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1496 to https://bocagesaintlouis.fr/journee-romaine-21-09-2017/
+13:00:36	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1492
+13:00:36	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1492 to https://bocagesaintlouis.fr/journee-printaniere-30-03-2017/
+13:00:36	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1488
+13:00:36	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1488 to https://bocagesaintlouis.fr/collioure-22-06-2017/
+13:00:36	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1484
+13:00:36	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1484 to https://bocagesaintlouis.fr/journee-chinoise-23-02-2017/
+13:00:36	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1480
+13:00:36	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1480 to https://bocagesaintlouis.fr/cheverny-27-04-2017/
+13:00:36	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1477
+13:00:36	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1477 to https://bocagesaintlouis.fr/depart-chantal-arrivee-mr-le-pelletier-16-05-2018/
+13:00:36	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1472
+13:00:36	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1472 to https://bocagesaintlouis.fr/printemps-de-bourges-20-03-2018/
+13:00:51	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1468
+13:00:51	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1468 to https://bocagesaintlouis.fr/barbecue-13-09-2018/
+13:00:51	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1418
+13:00:51	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1418 to https://bocagesaintlouis.fr/a-la-rechercher-des-laines-precieuses/
+13:01:05	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1260
+13:01:05	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1260 to https://bocagesaintlouis.fr/repas-a-theme-mont-st-michel/
+13:01:06	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1238
+13:01:06	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1238 to https://bocagesaintlouis.fr/repas-a-theme-mexicain/
+13:01:07	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1144
+13:01:07	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1144 to https://bocagesaintlouis.fr/dejeuner-sur-le-theme-de-la-slovenie/
+13:01:08	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1208
+13:01:08	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1208 to https://bocagesaintlouis.fr/animation-malte/
+13:01:08	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1194
+13:01:08	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1194 to https://bocagesaintlouis.fr/menu-russe-affiche-jo-sotchi/
+13:01:08	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1042
+13:01:08	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1042 to https://bocagesaintlouis.fr/atelier-dorure-sur-bois-demonstration/
+13:01:08	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1022
+13:01:08	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1022 to https://bocagesaintlouis.fr/discours-des-voeux-2013/
+13:01:08	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1016
+13:01:08	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1016 to https://bocagesaintlouis.fr/le-degrevement-en-cas-dinoccupation-dun-appartement/
+13:01:08	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1407
+13:01:08	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1407 to https://bocagesaintlouis.fr/conference-kiki-de-montparnasse/
+13:01:08	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1399
+13:01:08	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1399 to https://bocagesaintlouis.fr/repas-de-2016-au-bocage-saint-louis/
+13:01:08	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1393
+13:01:08	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1393 to https://bocagesaintlouis.fr/nouvel-an-2017-au-bocage/
+13:01:08	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1386
+13:01:08	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1386 to https://bocagesaintlouis.fr/noel-2016-au-bocage-saint-louis/
+13:01:08	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1290
+13:01:08	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1290 to https://bocagesaintlouis.fr/themes-des-oiseaux/
+13:01:08	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1285
+13:01:08	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1285 to https://bocagesaintlouis.fr/100-ans-mme-delporto/
+13:01:08	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1235
+13:01:08	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1235 to https://bocagesaintlouis.fr/dejeuner-du-nouvel-an-2015/
+13:01:21	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1198
+13:01:21	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1198 to https://bocagesaintlouis.fr/voeux-de-monsieur-le-maire/
+13:01:31	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1118
+13:01:31	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1118 to https://bocagesaintlouis.fr/menus-de-fete-au-bocage-saint-louis/
+13:01:31	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1115
+13:01:31	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1115 to https://bocagesaintlouis.fr/tarifs-maintenus-malgre-la-tva-en-hausse/
+13:01:31	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1110
+13:01:31	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1110 to https://bocagesaintlouis.fr/reponses-au-quiz-sur-paris/
+13:01:31	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1107
+13:01:31	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1107 to https://bocagesaintlouis.fr/menu-special-paris/
+13:01:31	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1101
+13:01:31	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1101 to https://bocagesaintlouis.fr/les-chats-noirs/
+13:01:31	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1089
+13:01:31	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1089 to https://bocagesaintlouis.fr/le-mot-du-directeur/
+13:01:33	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/uploads/2013/02/Président-Copropriété-128x128.jpeg (from https://bocagesaintlouis.fr/les-nouvelles/page/5/)
+13:01:35	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1201
+13:01:35	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1201 to https://bocagesaintlouis.fr/voeux-de-monsieur-le-maire/ge-digital-camera/
+13:01:35	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1202
+13:01:35	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1202 to https://bocagesaintlouis.fr/voeux-de-monsieur-le-maire/ge-digital-camera-2/
+13:01:35	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1203
+13:01:35	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1203 to https://bocagesaintlouis.fr/voeux-de-monsieur-le-maire/ge-digital-camera-3/
+13:01:35	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1206
+13:01:35	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1206 to https://bocagesaintlouis.fr/voeux-de-monsieur-le-maire/ge-digital-camera-6/
+13:01:35	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1205
+13:01:35	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1205 to https://bocagesaintlouis.fr/voeux-de-monsieur-le-maire/ge-digital-camera-5/
+13:01:35	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1204
+13:01:35	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1204 to https://bocagesaintlouis.fr/voeux-de-monsieur-le-maire/ge-digital-camera-4/
+13:01:35	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1199
+13:01:35	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1199 to https://bocagesaintlouis.fr/voeux-de-monsieur-le-maire/dsc07685/
+13:01:35	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1200
+13:01:35	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1200 to https://bocagesaintlouis.fr/voeux-de-monsieur-le-maire/dsc07686/
+13:01:35	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/uploads/2013/02/Président-Copropriété.jpeg (from https://bocagesaintlouis.fr/le-mot-du-president-de-copropriete/)
+13:01:35	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=1004
+13:01:35	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=1004 to https://bocagesaintlouis.fr/le-mot-du-president-de-copropriete/
+13:01:35	Error: 	"Not Found" (404) at link https://bocagesaintlouis.fr/wp-content/uploads/2013/02/Pr%c3%a9sident-Copropri%c3%a9t%c3%a9-300x225.jpeg (from https://bocagesaintlouis.fr/le-mot-du-president-de-copropriete/)
+13:01:35	Warning: 	Moved Permanently for https://bocagesaintlouis.fr/?p=972
+13:01:35	Warning: 	File has moved from https://bocagesaintlouis.fr/?p=972 to https://bocagesaintlouis.fr/journee-portes-ouvertes/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 55 seconds : 682 links scanned, 596 files written (176097477 bytes overall) [174145544 bytes received at 741044 bytes/sec], 4648866 bytes transferred using HTTP compression in 389 files, ratio 30%, 10.4 requests per connection
+(24 errors, 125 warnings, 0 messages)

@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.bocagesaintlouis.fr	TRUE	/	FALSE	1999999999	__cfduid	d7890e89da38f27a9a7eeac3a50df5bfa1605873696
+bocagesaintlouis.fr	TRUE	/	FALSE	1999999999	SameSite	Lax
+
